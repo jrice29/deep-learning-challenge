@@ -1,5 +1,5 @@
 # deep-learning-challenge
-For this assingment, I used XPert Learning Assistance and Ask BCS Learning.
+
 
 Data Preprocessing
 
